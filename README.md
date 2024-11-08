@@ -14,7 +14,7 @@ Requires:  BepInEx-BepInExPack-5.4.2100, VoidCrewModdingTeam-VoidManager-1.2.2
 
 ### 💡 Function(s)
 
-- Overrides MasterServer port to 27001.
+- Automatically switches region after failing to connect.
 
 ### 🎮 Client Usage
 
