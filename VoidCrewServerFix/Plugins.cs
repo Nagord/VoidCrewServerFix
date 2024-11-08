@@ -25,7 +25,7 @@ namespace VoidCrewServerFix
 
     public class VoidManagerPlugin : VoidPlugin
     {
-        public override MultiplayerType MPType => MultiplayerType.All;
+        public override MultiplayerType MPType => MultiplayerType.Client;
 
         public override string Author => MyPluginInfo.PLUGIN_AUTHORS;
 
